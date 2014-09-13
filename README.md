@@ -1,7 +1,7 @@
 Acoin integration/staging tree
 ==============================
 
-http://www.a-coin.org
+http://www.a-coin.info
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
